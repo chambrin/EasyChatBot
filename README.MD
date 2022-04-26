@@ -2,7 +2,7 @@
 
 EasyChatBot est un chat bot en JavaScript natif.  
 
-## Roadman :  
+## Roadmap :  
 - chat
 - modal in chat
 - optimisation
